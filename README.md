@@ -13,7 +13,7 @@ git clone https://github.com/username/absencuy.git
 cd absencuy
 ```
 
-<p><b>Peringatan!</b> Sebelum menjalankan perintah di bawah, pastikan kamu sudah membuat folder "vendor/compose" secara manual</p>
+<p><b>Peringatan!</b> Sebelum menjalankan perintah di bawah, pastikan kamu sudah membuat folder "vendor/composer" secara manual</p>
 
 ```bash
 composer install
@@ -116,5 +116,5 @@ php artisan mahasiswa:sync-photos
 ---
 
 <div align="center">
-  <p>Anda bebas mengembangkan website ini untuk menjadi lebih baik, tapi jangan lupa kasih tau nama username saya di footer website <b>"ridhopro001"</b></p>
+  <p>Anda bebas mengembangkan website ini untuk menjadi lebih baik, Terima kasih~</b></p>
 </div>
